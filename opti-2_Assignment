@@ -1,0 +1,11 @@
+OPTIMIZE ROSENBERG FUNCTION _2-D
+
+
+f(x,y)=(1-x)^2+100(y-x^2)^2 
+
+For the 2D Rosenberg Function find optimal function and optimal values of variables obtained using:-
+ 1) Random Search 
+ 2) Simple MC, 
+ 3) Metropolis MC 
+ 4) SA and 
+ 5) GA ( tournament selection, Single point Crossover and Bit Flip Mutation) Take range of  variables to be -5 to +5 
